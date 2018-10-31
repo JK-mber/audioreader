@@ -1,0 +1,3 @@
+[submodule "SineGenerator"]
+	path = SineGenerator
+	url = https://github.com/JK-mber/SineGenerator.git
