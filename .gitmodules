@@ -1,3 +1,6 @@
 [submodule "SineGenerator"]
 	path = SineGenerator
 	url = https://github.com/JK-mber/SineGenerator.git
+[submodule "SignalGenerator"]
+	path = SignalGenerator
+	url = git@github.com:JK-mber/SignalGenerator.git
